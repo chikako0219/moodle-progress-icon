@@ -2,6 +2,9 @@ Progress-icon
 =====================
 
 This plugin (block) enables Moodle dashboard to show progress bar on each courses.
+
+![progress_icon](https://user-images.githubusercontent.com/12591403/73707402-d973a280-473e-11ea-82db-365732589f6c.png)
+
 To use this plugin, you need to install the following theme and plugin beforehand.
 
 Adaptable (Theme):
@@ -48,5 +51,6 @@ How to add pictures of courses
 
 * You can setup 2 pictures for each courses; "Picture1: In Progress" and "Picture2: Finished".
 * At first, please upload pictrues to the directory "block/progress_icon/pix" with the name "image001.gif". you can upload up to 30 pictures.
-* After uploaded pictures, go to "Site Admininistration/Plugin/progress_icon" and choose pictures.
+* After uploaded pictures, go to "Site Admininistration/Plugin/progress_icon" and choose pictures as follows.
 
+![progress_icon2](https://user-images.githubusercontent.com/12591403/73707415-df698380-473e-11ea-8a0c-1f90d50b4dc6.png)
