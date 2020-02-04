@@ -1,3 +1,22 @@
+Progress-icon
+=====================
+
+This plugin (block) enables Moodle dashboard to show progress bar on each courses.
+To use this plugin, you need to install the following theme and plugin beforehand.
+
+Adaptable (Theme):
+https://moodle.org/plugins/theme_adaptable
+
+Completion Progress (Block):
+https://moodle.org/plugins/block_completion_progress
+
+Documentation and Source:
+You can check documentation to install this plugin and download source code on Github.
+
+Github:Progress Bar on Dashboard
+https://github.com/chikako0219/moodle-progress-icon
+
+
 How to install
 =====================
 
