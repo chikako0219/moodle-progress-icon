@@ -6,11 +6,10 @@ This plugin (block) enables Moodle dashboard to show progress bar on each course
 
 ![progress_icon](https://user-images.githubusercontent.com/12591403/73707402-d973a280-473e-11ea-82db-365732589f6c.png)
 
+![0538bb24-1310-4488-a338-e300cda2e24d](https://user-images.githubusercontent.com/12591403/73949609-fa561680-493d-11ea-9e9c-f24eae74d7c9.png)
+
 
 To use this plugin, you need to install the following theme and plugin beforehand.
-
-Adaptable (Theme):
-https://moodle.org/plugins/theme_adaptable
 
 Completion Progress (Block):
 https://moodle.org/plugins/block_completion_progress
